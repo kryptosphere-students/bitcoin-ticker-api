@@ -13,3 +13,7 @@ first `go build bitcoin-ticker-api.go` to compile
 
 then `./bitcoin-ticker-api` to execute
 
+Result example:
+
+![Example](https://github.com/kryptosphere-students/bitcoin-ticker-api/blob/master/capture_bitcoin_ticker.PNG)
+
